@@ -1,9 +1,9 @@
 <template>
     <div class="tabs">
-        <div>Main page</div>
-        <div>Off page</div>
-        <div>Header</div>
-        <div>yes</div>
+        <div>Hjem</div>
+        <div>Karriere</div>
+        <div>Prosjekter</div>
+        <div>Ideer</div>
     </div>
 
 </template>

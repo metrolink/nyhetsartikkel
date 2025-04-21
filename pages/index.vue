@@ -7,6 +7,6 @@
 
 <style>
 .mainPage {
-    background-color: aqua;
+    background-color: lightgrey;
 }
 </style>
