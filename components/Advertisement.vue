@@ -1,7 +1,7 @@
 <template>
     <div>
     <div class="preAd"> Artikkelen fortsetter under annonsen</div>
-    <a href="https://t-rosag.no/" class="Ad"><img src="../Embed-image.png" width="60%"></a>
+    <a href="https://t-rosag.no/" class="Ad"><img src="../public/Embed-image.png" width="60%"></a>
     </div>
 </template>
 
