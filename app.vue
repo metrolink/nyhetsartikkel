@@ -1,9 +1,5 @@
-<script lang="ts">
-import { Analytics } from '@vercel/analytics/nuxt'
-</script>
 <template>
   <div class="mainPage">
-    <Analytics/>
     <NuxtRouteAnnouncer />
     <AppHeader />
     <NuxtPage/>
