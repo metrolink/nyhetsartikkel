@@ -13,5 +13,33 @@
     "nuxt": "^3.16.2",
     "vue": "^3.5.13",
     "vue-router": "^4.5.0"
+  },
+  "eslintConfig": {
+    "rules": {
+      "semi": "error",
+      "quotes": [
+        "error",
+        "single"
+      ],
+      "space-before-function-paren": [
+        "error",
+        {
+          "anonymous": "always",
+          "named": "never",
+          "asyncArrow": "always"
+        }
+      ],
+      "space-before-blocks": "warn",
+      "no-trailing-spaces": "warn",
+      "keyword-spacing": [
+        "error",
+        {
+          "before": true,
+          "after": true
+        }
+      ],
+      "curly": "error",
+      "arrow-parens": "warn"
+    }
   }
 }
