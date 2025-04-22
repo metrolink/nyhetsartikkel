@@ -10,6 +10,7 @@
 
 <style>
 .tabs {
+    top:0;
     height: 600;
     position:sticky;
     display: flex;
